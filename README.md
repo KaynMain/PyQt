@@ -1,1 +1,1 @@
-# PyQt
+Aplikacja tworzaca okno logowania
